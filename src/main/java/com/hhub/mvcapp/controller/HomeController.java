@@ -1,4 +1,4 @@
-package com.hhub.mvcapp;
+package com.hhub.mvcapp.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
